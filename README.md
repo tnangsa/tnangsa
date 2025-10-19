@@ -1,14 +1,7 @@
-<h1>Hi, I'm Tenzin, an <a href="https://linkedin.com/in/tenzin-nangsa">IT Professional</a>☺</h1>
+<h1>Hi, I'm Tenzin, a <a href="https://linkedin.com/in/tenzin-nangsa">Software Engineer</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Coding Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/tnangsa/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/tnangsa/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/tnangsa/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tnangsa/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tnangsa/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
